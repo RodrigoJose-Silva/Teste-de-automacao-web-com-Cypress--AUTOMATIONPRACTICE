@@ -1,0 +1,14 @@
+{
+  "name": "cypress-testsite",
+  "version": "1.0.0",
+  "description": "Efetuar testes de aceitação",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rodrigo Jose",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
